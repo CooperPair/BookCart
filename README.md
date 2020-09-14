@@ -1,6 +1,6 @@
 # BookCart
 
-A single place to buy trending books online. Done as a DBMS project.
+A single place to buy trending books online. Buils as project for 5th semester DBMS lab.
 
 ## Built With
 
@@ -11,3 +11,7 @@ A single place to buy trending books online. Done as a DBMS project.
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
+
+## Further work needed
+
+Need to add the concept of recommendation system that can easily able to recommend the customer as per their search and interst over site.
