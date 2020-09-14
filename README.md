@@ -10,7 +10,7 @@ A single place to buy trending books online. Buils as project for 5th semester D
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
+This project is licensed under the MIT License
 
 ## Further work needed
 
